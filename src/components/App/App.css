@@ -1,0 +1,17 @@
+#app {
+    align-content: stretch;
+    --padding-vertical: 0in;
+    --padding-horizontal: 0.1in;
+
+    justify-content: space-between;
+
+    padding-bottom: var(--padding-vertical);
+    padding-left: var(--padding-horizontal);
+    padding-right: var(--padding-horizontal);
+    padding-top: var(--padding-vertical);
+
+    height: calc(11in - var(--padding-vertical)*2);
+    width: calc(8.5in - var(--padding-horizontal)*2);
+
+    background-color: white;
+}

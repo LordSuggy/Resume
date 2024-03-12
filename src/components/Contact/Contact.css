@@ -1,0 +1,22 @@
+#contact {
+    align-items: flex-end;
+    justify-content: space-evenly;
+    padding-top: 0.4in;
+
+    --header-height: calc(1in - var(--padding-vertical));
+    height: .2in;
+    
+    border-top: 1px solid black;
+}
+
+.contact-item {
+    align-items: center;
+}
+
+.contact-item-icon {
+    font-size: 1.5em;
+}
+
+.contact-item-description {
+    font-size: 1em;
+}

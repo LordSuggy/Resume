@@ -1,0 +1,35 @@
+#title {
+    position: relative;
+    min-height: 0.8in;
+    max-height: 0.8in;
+
+    border-bottom: 1.5px solid black;
+}
+
+
+#title-logo {
+    display: inline;
+    position: absolute;
+    width: 1.in;
+    height: 1.1in;
+}
+
+#title-container {
+    position: absolute;
+    top: 0in;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+#title-name {
+    position: relative;
+    top: -0.15in;
+
+    font-family: Josefin Sans;
+    font-optical-sizing: auto;
+    font-size: 3em;
+    font-style: normal;
+    font-weight: 400;
+}

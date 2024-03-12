@@ -1,0 +1,151 @@
+{
+    "name": "Andrew Sugaya",
+    "summaries": [
+        {
+            "name": "Management Philosophy",
+            "description": "A manager serves the team with the goal of enabling its members to reach their highest potential of productivity and growth."
+        },
+        {
+            "name": "Development Philosophy",
+            "description": "A developer should always keep the user in mind, including both the end user of the software as well as the developers that will work with their code in the future."
+        }
+    ],
+    "attributes": [
+        {
+            "name": "Skills",
+            "categories": [
+                {
+                    "name": "",
+                    "values": [
+                        "Global team enablement",
+                        "Product development",
+                        "Project management",
+                        "Software architecture and engineering",
+                        "Algorithm design"
+                    ]
+               }
+            ]
+        },
+        {
+            "name": "Technologies",
+            "categories":[
+                {
+                    "name": "Proficient",
+                    "values": [
+                        "HTML, CSS",
+                        "JavaScript, TypeScript",
+                        "NodeJS, Jest, Mocha"
+                    ]
+                },
+                {
+                    "name": "Familiar",
+                    "values": [
+                        "React, Angular",
+                        "AWS, Azure, GCP",
+                        "Docker, Kubernetes",
+                        "SQL Server, PostgreSQL, MongoDB, Cosmos DB, Redis",
+                        "Kotlin, React Native",
+                        "Go, C, C++"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Interests",
+            "categories":[
+                {
+                    "name": "",
+                    "values": [
+                        "Learning new musical instruments",
+                        "Board/card/video games",
+                        "Software development",
+                        "Anime",
+                        "Live streaming",
+                        "Archery",
+                        "Fencing"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activities": [
+        {
+            "name": "Experience",
+            "eras": [
+                {
+                    "name": "TeamViewer",
+                    "events": [
+                        {
+                            "timeframe": "Sep 2021 - Present",
+                            "position": "Director of Frontline Apps",
+                            "description": "With TeamViewer's acquisition of Upskill, I now lead multiple global engineering teams in the delivery of projects to Fortune 50 customers, ensuring each solution maintains compliance with strict security standards as well as industry-specific requirements. These engineering team members are located across the globe, in locations such as Ukraine, Croatia, Mexico, Brazil, Portugal, Germany, and the US."
+                        }
+                    ]
+                },
+                {
+                    "name": "Upskill (formerly APX Labs)",
+                    "events": [
+                        {
+                            "timeframe": "Nov 2020 - Sep 2021",
+                            "position": "Director of Engineering",
+                            "description": "As director of engineering, I managed the roadmap, design, development, testing, and delivery of the Skylight platform with a globally-distributed team. This highly scalable cross-platform solution spanned Web (React frontend and NodeJS/Go services), iOS mobile (React Native), and Android mobile/smartglasses (Kotlin)."
+                        },
+                        {
+                            "timeframe": "Aug 2015 - Nov 2020",
+                            "position": "Director of Partnerships",
+                            "description": "I developed relationships with our software integrators, software vendors, and hardware manufacturers to create and flourish win-win scenarios for joint solutions in the augmented reality space that holistically boosted the emerging technology."
+                        }
+                    ]
+                },
+                {
+                    "name": "APX Labs",
+                    "events": [
+                        {
+                            "timeframe": "Jun 2012 - Aug 2015",
+                            "position": "Senior Software Engineer",
+                            "description": "As a member of the R&D team at APX Labs, I developed wearable and mobile solutions using Android, iOS, Arduino, and Web technologies. These solutions were deployed at scale for engagements around the world that solved unique challenges in consumer, business, and government use cases."
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "name": "Education",
+            "eras": [
+                {
+                    "name": "Massachusetts Institute of Technology",
+                    "events": [
+                        {
+                            "timeframe": "2011-2012",
+                            "position": "Master of Engineering, GPA 5.0/5.0",
+                            "description": ""
+                        },
+                        {
+                            "timeframe": "2007-2011",
+                            "position": "Bachelor of Science, GPA 5.0/5.0",
+                            "description": "Electrical Engineering and Computer ScienceㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤSpecialization in Artificial Intelligence and Robotics"
+                        }
+                    ]
+                }
+            ] 
+        }
+    ],
+    "contact": [
+        {
+            "name": "Email",
+            "icon": "fa-solid fa-envelope",
+            "description": "<email>"
+        },
+        {
+            "name": "Mobile",
+            "icon": "fa-solid fa-mobile",
+            "description": "<phone>"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "fa-brands fa-linkedin",
+            "description": "in/andrewsugaya"
+        }
+    ]
+        
+}

@@ -1,0 +1,31 @@
+
+.attribute {
+    margin-top: 0.1in;
+    margin-bottom:0.25in;
+}
+
+.attribute-title {
+    margin-bottom: 0.1in;
+    text-align: center;
+
+    font-family: Lato;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.attribute-category-name {
+    margin-top: 0.1in;
+    text-align: center;
+
+    font-family: Lato;
+    font-size: 1em;
+    font-style: italic;
+}
+
+.attribute-category-item {
+    margin-top: 0.05in;
+    display: list-item;          /* This has to be "list-item"                                               */
+    list-style-type: disc;     /* See https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type     */
+    list-style-position: outside; /* See https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-position */
+}

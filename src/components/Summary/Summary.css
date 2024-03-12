@@ -1,0 +1,21 @@
+#summary {
+    height: 1.2in;
+    border-bottom: 1px solid black;
+}
+
+.summary-item {
+    align-items: center;
+    margin-top: 0.1in;
+    margin-bottom: 0.1in;
+    width:100%;
+    padding-left:0.1in;
+    padding-right:0.1in;
+}
+
+.summary-item-name {
+    font-weight: bold;
+}
+
+.summary-item-divider {
+    border-right: 1px solid black;
+}
