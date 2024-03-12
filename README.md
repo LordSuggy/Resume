@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Andrew Sugaya's Resume
+This is the boilerplate readme for React apps, but it's informative! Follow the readme to view the resume.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
